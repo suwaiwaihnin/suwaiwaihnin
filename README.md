@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Su Wai Wai Hnin</h1>
-<h3 align="center">A leaner in tech world</h3>
+<h3 align="center">A learner in tech world</h3>
 
 - 🌱 I’m currently learning **vuejs, reactjs**
 
